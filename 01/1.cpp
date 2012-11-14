@@ -11,4 +11,6 @@ int main( int argc, char **argv ) {
 	}
 
 	cout << "The answer is: " << sum << endl;
+
+	return 0;
 }
